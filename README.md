@@ -5,6 +5,6 @@
 	__palabra__
 
 ```js
-var x< = 10;
+var x = 10; // arreglado
 ```
 Hola
